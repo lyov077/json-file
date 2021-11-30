@@ -15,6 +15,11 @@
 				"display_type": "boost_percentage", 
 				"trait_type": "Property 2", 
 				"value": 40
+				},
+				{
+				"display_type": "number", 
+				"trait_type": "Property 3", 
+				"value": 1
 				}
 			]
 			
