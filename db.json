@@ -7,8 +7,8 @@
 			"image": "https://bafkreihkyx4uxhesfpkopl3o4iy5pwprqhjl52ste5rvvjr7j7lrxahqoa.ipfs.dweb.link/",
 			"attributes":[
 				{
-				"strength": 20, 
-				"fun":300 
+				"trait_type": "fun", 
+				"value": "20"
 				}
 			]
 			
