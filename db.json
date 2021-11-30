@@ -4,7 +4,14 @@
 			"id": 0,
 			"name": "Perfect techology",
 			"image": "https://bafkreihkyx4uxhesfpkopl3o4iy5pwprqhjl52ste5rvvjr7j7lrxahqoa.ipfs.dweb.link/",
-			"strength": 20
+			"attributes":[
+				{
+				"strength": 20, 
+				"fun":300 
+				}
+			]
+			
+			
 		},
 		{
 			"id": 1,
