@@ -1,6 +1,7 @@
 {
 	"memes": [
 		{
+			"description": "The guy is seriously explaining something", 
 			"id": 0,
 			"name": "Perfect techology",
 			"image": "https://bafkreihkyx4uxhesfpkopl3o4iy5pwprqhjl52ste5rvvjr7j7lrxahqoa.ipfs.dweb.link/",
@@ -14,28 +15,33 @@
 			
 		},
 		{
+			"description": "", 
 			"id": 1,
 			"name": "Buy bitcoin",
 			"image": "https://bafkreibjdd53lo4g5rdm5j5n6yvrgjgf3adiab3hxkl2jwm76sffee5dmy.ipfs.dweb.link/",
 			"strength": 100
 		},
 		{
+			"description": "", 
 			"id": 2,
 			"name": "Decentralized or Centralized",
 			"image": "https://bafkreiflvsjfad6kaqxph6yh44q5bb325arg3fnb2zhlvpuzrecqqudinm.ipfs.dweb.link/",
 			"strength": 200
 		},
 		{
+			"description": "", 
 			"id": 3,
 			"name": "It isn't scam",
 			"image": "https://bafkreiely37nmisukx5hfwj7w62bad7qr5shh4eiws2fk2gtjkf5esnbgu.ipfs.dweb.link/"
 		},
 		{
+			"description": "", 
 			"id": 4,
 			"name": "Take my money",
 			"image": "https://bafkreiaexiegofqvzfds4inb22lbisguk73egqpf5g3vnjaxg7fp3mwo4y.ipfs.dweb.link/"
 		},
 		{
+			"description": "", 
 			"id": 5,
 			"name": "Thsnk you",
 			"image": "https://bafkreifryvitdz2so6y7pmldxvklaulyy66julegccbyyo2bm3l3k7fq7m.ipfs.dweb.link/"
