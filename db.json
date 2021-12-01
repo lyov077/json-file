@@ -20,6 +20,14 @@
 				"display_type": "number", 
 				"trait_type": "Property 3", 
 				"value": 1
+				},
+				{
+				"trait_type": "level",
+				"value": 5
+
+				},
+				{
+
 				}
 			]
 			
