@@ -32,7 +32,7 @@
 
 				},
 				{
-
+				
 				}
 			]
 			
@@ -43,7 +43,36 @@
 			"id": 1,
 			"name": "Buy bitcoin",
 			"image": "https://bafkreibjdd53lo4g5rdm5j5n6yvrgjgf3adiab3hxkl2jwm76sffee5dmy.ipfs.dweb.link/",
-			"strength": 100
+			"attributes":[
+				{
+				"display_type": "boost_number", 
+				"trait_type": "fun", 
+				"value": 20
+				},
+				{
+				"display_type": "boost_percentage", 
+				"trait_type": "Property 2", 
+				"value": 40
+				},
+				{
+				"display_type": "number", 
+				"trait_type": "Property 3", 
+				"value": 2
+				},
+				{
+				"display_type": "number", 
+				"trait_type": "Property 4", 
+				"value": 1
+				},
+				{
+				"trait_type": "level",
+				"value": 5
+
+				},
+				{
+				
+				}
+			]
 		},
 		{
 			"description": "", 
